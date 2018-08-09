@@ -1,5 +1,6 @@
-package com.nhnent.springcloud.javaconfig;
+package com.nhnent.springcloud.service;
 
+import com.nhnent.springcloud.domain.Customer;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Component;

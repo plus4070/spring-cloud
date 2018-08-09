@@ -1,4 +1,4 @@
-package com.nhnent.springcloud.javaconfig;
+package com.nhnent.springcloud.domain;
 
 public class Customer {
     private long id;
